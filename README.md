@@ -114,4 +114,4 @@ The repository intentionally excludes smoke-test archives, pilot archives, inter
 
 ## License
 
-A software license has not yet been assigned. Add the intended repository license before public release.
+This repository is released under the MIT License. See [LICENSE](LICENSE).
