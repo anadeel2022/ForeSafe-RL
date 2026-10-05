@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n*.pyo\n*.log\n.venv/\nvenv/\nenv/\n.vscode/\n.idea/\n.DS_Store\nThumbs.db\noutputs_*/\ncheckpoints/\n*.pt\n*.pth\n*.ckpt\n
