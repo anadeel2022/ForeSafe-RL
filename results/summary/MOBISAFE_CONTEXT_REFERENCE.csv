@@ -1,0 +1,2 @@
+method,profile,p_int_mean,p_int_ci95,otd_mean,otd_ci95,traffic_mbps_mean,traffic_mbps_ci95,comparison_status
+MobiSafe-PPO (published contextual reference),mild_minus,0.035463348692351904,0.002121976255502501,0.627322103772967,0.010149205991531237,0.7758395066666667,0.01782533839813861,contextual only; different observation/information protocol

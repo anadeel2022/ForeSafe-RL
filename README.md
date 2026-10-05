@@ -111,3 +111,7 @@ Main learned-method results are summarized across the ten training seeds using m
 ## Reproducibility note
 
 The repository intentionally excludes smoke-test archives, pilot archives, intermediate checkpoints, cached Python bytecode, and large raw result folders. These are not required to inspect the implementation or reproduce the final experiment protocol.
+
+## License
+
+A software license has not yet been assigned. Add the intended repository license before public release.

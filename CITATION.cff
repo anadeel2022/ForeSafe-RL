@@ -1,1 +1,12 @@
-cff-version: 1.2.0\ntitle: "ForeSafe-RL: Predictive CVaR-Shielded Reinforcement Learning under Partial Observability for Reliable Vehicular IoT Scheduling"\nmessage: "If you use this software, please cite the associated ForeSafe-RL manuscript and this repository."\ntype: software\nauthors:\n  - family-names: Siddiqui\n    given-names: Muhammad Faisal\n  - family-names: Iqbal\n    given-names: Adeel\nyear: 2026\nrepository-code: "https://github.com/anadeel2022/ForeSafe-RL"\nlicense: "NOASSERTION"\n
+cff-version: 1.2.0
+title: "ForeSafe-RL: Predictive CVaR-Shielded Reinforcement Learning under Partial Observability for Reliable Vehicular IoT Scheduling"
+message: "If you use this software, please cite the associated ForeSafe-RL manuscript and this repository."
+type: software
+authors:
+  - family-names: Siddiqui
+    given-names: Muhammad Faisal
+  - family-names: Iqbal
+    given-names: Adeel
+year: 2026
+repository-code: "https://github.com/anadeel2022/ForeSafe-RL"
+license: "NOASSERTION"

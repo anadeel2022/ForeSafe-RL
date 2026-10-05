@@ -1,0 +1,25 @@
+method,profile,n_seeds,seeds_pint_le_005,fraction_pint_le_005
+Adaptive ForeSafe,compound_severe,10,0,0.0
+Adaptive ForeSafe,mild_minus,10,10,1.0
+Adaptive ForeSafe,nominal,10,10,1.0
+Adaptive ForeSafe,standard_compound,10,0,0.0
+"Adaptive ForeSafe, no belief",compound_severe,10,0,0.0
+"Adaptive ForeSafe, no belief",mild_minus,10,10,1.0
+"Adaptive ForeSafe, no belief",nominal,10,10,1.0
+"Adaptive ForeSafe, no belief",standard_compound,10,0,0.0
+Belief-PPO,compound_severe,10,0,0.0
+Belief-PPO,mild_minus,10,10,1.0
+Belief-PPO,nominal,10,10,1.0
+Belief-PPO,standard_compound,10,0,0.0
+Belief-PPO-Lagrangian,compound_severe,10,0,0.0
+Belief-PPO-Lagrangian,mild_minus,10,10,1.0
+Belief-PPO-Lagrangian,nominal,10,10,1.0
+Belief-PPO-Lagrangian,standard_compound,10,0,0.0
+"Fixed CVaR, no belief",compound_severe,10,0,0.0
+"Fixed CVaR, no belief",mild_minus,10,10,1.0
+"Fixed CVaR, no belief",nominal,10,10,1.0
+"Fixed CVaR, no belief",standard_compound,10,0,0.0
+ForeSafe (fixed CVaR),compound_severe,10,0,0.0
+ForeSafe (fixed CVaR),mild_minus,10,10,1.0
+ForeSafe (fixed CVaR),nominal,10,10,1.0
+ForeSafe (fixed CVaR),standard_compound,10,0,0.0

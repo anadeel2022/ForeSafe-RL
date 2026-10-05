@@ -1,1 +1,2 @@
-numpy>=1.26\ntorch>=2.7\n
+numpy>=1.26
+torch>=2.7
